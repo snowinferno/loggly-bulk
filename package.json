@@ -1,0 +1,27 @@
+{
+  "name": "loggly-bulk",
+  "version": "1.0.0",
+  "description": "Provides bulk logging support on top of the loggly npm package.",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowinferno/loggly-bulk.git"
+  },
+  "keywords": [
+    "loggly",
+    "bulk",
+    "logging"
+  ],
+  "author": "Greg Wilburn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snowinferno/loggly-bulk/issues"
+  },
+  "homepage": "https://github.com/snowinferno/loggly-bulk#readme",
+  "dependencies": {
+    "loggly": "^1.0.8"
+  }
+}
